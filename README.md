@@ -90,7 +90,7 @@ Import photos, add geometric shapes, and incorporate typography directly into yo
 
 **A brush library for every artistic dream.**
 
-17+ brush categories from dry media to vintage effects, all with full pressure and tilt sensitivity.
+17+ brush categories from dry media to vintage effects, all with full pressure and tilt sensitivity. Compatible with Procreate brushes.
 
 ---
 
