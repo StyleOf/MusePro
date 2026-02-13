@@ -1,6 +1,10 @@
-# MusePro
+<p align="center">
+  <img src="Media/musepro-logo.png" alt="MusePro" height="80"/>
+</p>
 
-**Realtime AI guided by your hand.**
+<p align="center">
+  <b>Realtime AI guided by your hand.</b>
+</p>
 
 <p align="center">
   <a href="https://apps.apple.com/us/app/muse-pro/id6475118587"><img src="https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg" alt="Download on the App Store" height="50"/></a>
@@ -14,35 +18,6 @@ Own the composition and elevate your creativity. MusePro is the next generation 
   <video src="https://github.com/user-attachments/assets/87f4926c-22c4-4b52-95cc-42f633ede3ac" width="80%" controls></video>
 </p>
 
-## See It In Action
-
-<table>
-<tr>
-<td align="center"><b>Drawing Demo</b></td>
-<td align="center"><b>Realtime Generation</b></td>
-</tr>
-<tr>
-<td><video src="https://github.com/user-attachments/assets/496e5681-70d2-4411-a394-3c1ff0eee2a1" width="400" controls></video></td>
-<td><video src="https://github.com/user-attachments/assets/c466a3dd-e2b8-40db-b860-6d81e64880b6" width="400" controls></video></td>
-</tr>
-<tr>
-<td align="center"><b>Prompting & Vision</b></td>
-<td align="center"><b>AI Control</b></td>
-</tr>
-<tr>
-<td><video src="https://github.com/user-attachments/assets/c76b0ef8-905f-407f-b60c-3c975e30b1de" width="400" controls></video></td>
-<td><video src="https://github.com/user-attachments/assets/2926d590-7524-44ac-861b-37c0b3e66109" width="400" controls></video></td>
-</tr>
-<tr>
-<td align="center"><b>Enhance & Upscale</b></td>
-<td align="center"><b>Assets & Shapes</b></td>
-</tr>
-<tr>
-<td><video src="https://github.com/user-attachments/assets/b03e2818-85a1-4daf-a69c-9d7e086f41e6" width="400" controls></video></td>
-<td><video src="https://github.com/user-attachments/assets/e3e3d54b-0ea7-4c01-951f-60c3b517a3ac" width="400" controls></video></td>
-</tr>
-</table>
-
 ---
 
 ## A Magical Toolset
@@ -52,6 +27,10 @@ Unleash your creativity with familiar tools and groundbreaking AI.
 ### Realtime AI Generation
 
 **Watch your vision unfold as your strokes guide the AI.**
+
+<p align="center" width="100%">
+  <video src="https://github.com/user-attachments/assets/c466a3dd-e2b8-40db-b860-6d81e64880b6" width="80%" controls></video>
+</p>
 
 Your drawings transform as you create them - not after. The AI follows your composition, respecting your artistic intent while adding stunning detail in real-time.
 
@@ -64,6 +43,10 @@ Your drawings transform as you create them - not after. The AI follows your comp
 
 **Guide the AI with prompts to bring your ideas to life.**
 
+<p align="center" width="100%">
+  <video src="https://github.com/user-attachments/assets/c76b0ef8-905f-407f-b60c-3c975e30b1de" width="80%" controls></video>
+</p>
+
 - **Text-to-Image** - Quickly change directions with words
 - **Randomize** - Never face a blank canvas again
 - **Enhance** - Beautiful detail with a tap
@@ -73,6 +56,10 @@ Your drawings transform as you create them - not after. The AI follows your comp
 
 **Fine-tune the AI with intuitive sliders. You're always in control.**
 
+<p align="center" width="100%">
+  <video src="https://github.com/user-attachments/assets/2926d590-7524-44ac-861b-37c0b3e66109" width="80%" controls></video>
+</p>
+
 - Shuffle the seed to explore endless possibilities
 - Pause to put AI collaboration on hold
 - Adjust influence strength to balance your drawing vs AI interpretation
@@ -81,31 +68,39 @@ Your drawings transform as you create them - not after. The AI follows your comp
 
 **Enhance details and polish your masterpiece.**
 
+<p align="center" width="100%">
+  <video src="https://github.com/user-attachments/assets/b03e2818-85a1-4daf-a69c-9d7e086f41e6" width="80%" controls></video>
+</p>
+
 - **2x Upscaling** - Print-ready outputs from your sketches
 - **Creative Enhancement** - Sliders help bring rough concepts to life
 - **Background Removal** - Clean cutouts instantly
-
-### Professional Layer System
-
-**Experiment and refine effortlessly with layers.**
-
-| Layers | Brushes |
-|:---:|:---:|
-| ![Layers](https://cdn.prod.website-files.com/65dcad0fb21096e8c41cfd96/65e7e3255598890c627fbefd_feature-layers.png) | ![Brushes](https://cdn.prod.website-files.com/65dcad0fb21096e8c41cfd96/65e8922d0fdf7cb0b55f7336_feature-brushes.png) |
-
-- Unlimited layers with 16 blend modes
-- Per-layer opacity and locking
-- Drag & drop reordering
 
 ### Assets & Tools
 
 **Infuse your art with shapes, images, and text.**
 
+<p align="center" width="100%">
+  <video src="https://github.com/user-attachments/assets/e3e3d54b-0ea7-4c01-951f-60c3b517a3ac" width="80%" controls></video>
+</p>
+
 Import photos, add geometric shapes, and incorporate typography directly into your canvas as composition guides.
+
+### Professional Layer System
+
+**Experiment and refine effortlessly with layers.**
+
+- Unlimited layers with 16 blend modes
+- Per-layer opacity and locking
+- Drag & drop reordering
 
 ### Diverse Brush Library
 
 **A brush library for every artistic dream.**
+
+<p align="center" width="100%">
+  <video src="https://github.com/user-attachments/assets/496e5681-70d2-4411-a394-3c1ff0eee2a1" width="80%" controls></video>
+</p>
 
 17+ brush categories from dry media to vintage effects, all with full pressure and tilt sensitivity. Compatible with Procreate brushes.
 
@@ -258,9 +253,15 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Acknowledgments
 
+<p align="center">
+  <img src="Media/styleof-logo.png" alt="StyleOf" height="30"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="Media/fal-logo.png" alt="Fal.ai" height="30"/>
+</p>
+
 - Custom Metal rendering engine built with love
 - AI powered by [Fal.ai](https://fal.ai)
-- Originally developed by [Omer Karisman](https://github.com/okaris)
+- Originally developed by [Omer Karisman](https://github.com/okaris) at [StyleOf](https://styleof.com)
 
 ---
 
