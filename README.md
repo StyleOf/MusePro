@@ -11,18 +11,18 @@
 Own the composition and elevate your creativity. MusePro is the next generation of drawing tools - a professional-grade app for iOS and visionOS where your Apple Pencil strokes guide real-time AI image generation.
 
 <p align="center" width="100%">
-  <video src="https://github.com/user-attachments/assets/496e5681-70d2-4411-a394-3c1ff0eee2a1" width="80%" controls></video>
+  <video src="https://github.com/user-attachments/assets/87f4926c-22c4-4b52-95cc-42f633ede3ac" width="80%" controls></video>
 </p>
 
 ## See It In Action
 
 <table>
 <tr>
-<td align="center"><b>App Overview</b></td>
+<td align="center"><b>Drawing Demo</b></td>
 <td align="center"><b>Realtime Generation</b></td>
 </tr>
 <tr>
-<td><video src="https://github.com/user-attachments/assets/87f4926c-22c4-4b52-95cc-42f633ede3ac" width="400" controls></video></td>
+<td><video src="https://github.com/user-attachments/assets/496e5681-70d2-4411-a394-3c1ff0eee2a1" width="400" controls></video></td>
 <td><video src="https://github.com/user-attachments/assets/c466a3dd-e2b8-40db-b860-6d81e64880b6" width="400" controls></video></td>
 </tr>
 <tr>
