@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key></key>
+	<string></string>
+	<key>CFBundleDocumentTypes</key>
+	<array>
+		<dict>
+			<key>CFBundleTypeIconFiles</key>
+			<array>
+				<string>musepro-22x29.png</string>
+				<string>musepro-44x58.png</string>
+				<string>musepro-64.png</string>
+				<string>musepro-320.png</string>
+			</array>
+			<key>CFBundleTypeName</key>
+			<string>MusePro Document</string>
+			<key>LSHandlerRank</key>
+			<string>Owner</string>
+			<key>LSItemContentTypes</key>
+			<array>
+				<string>com.musepro.app.document</string>
+			</array>
+		</dict>
+	</array>
+	<key>ITSAppUsesNonExemptEncryption</key>
+	<false/>
+	<key>UIFileSharingEnabled</key>
+	<true/>
+	<key>UTExportedTypeDeclarations</key>
+	<array>
+		<dict>
+			<key>UTTypeConformsTo</key>
+			<array>
+				<string>public.data</string>
+				<string>public.archive</string>
+			</array>
+			<key>UTTypeDescription</key>
+			<string>MusePro Document</string>
+			<key>UTTypeIconFiles</key>
+			<array>
+				<string>musepro-22x29.png</string>
+				<string>musepro-44x58.png</string>
+				<string>musepro-64.png</string>
+				<string>musepro-320.png</string>
+			</array>
+			<key>UTTypeIdentifier</key>
+			<string>com.musepro.app.document</string>
+			<key>UTTypeTagSpecification</key>
+			<dict>
+				<key>public.filename-extension</key>
+				<array>
+					<string>musepro</string>
+					<string>MUSEPRO</string>
+				</array>
+			</dict>
+		</dict>
+	</array>
+    <key>NSUbiquitousContainers</key>
+    <dict>
+        <key>iCloud.com.musepro.app.iCloudDocuments</key>
+        <dict>
+            <key>NSUbiquitousContainerIsDocumentScopePublic</key>
+            <true/>
+            <key>NSUbiquitousContainerName</key>
+            <string>Muse Pro</string>
+            <key>NSUbiquitousContainerSupportedFolderLevels</key>
+            <string>ANY</string>
+        </dict>
+    </dict>
+</dict>
+</plist>
