@@ -2,25 +2,29 @@
 
 **Realtime AI guided by your hand.**
 
-[![Product Hunt](https://api.producthunt.com/widgets/embed-image/v1/top-post-badge.svg?post_id=442693&theme=dark&period=daily)](https://www.producthunt.com/posts/muse-pro)
+<p align="center">
+  <a href="https://apps.apple.com/us/app/muse-pro/id6475118587"><img src="https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg" alt="Download on the App Store" height="50"/></a>
+  &nbsp;&nbsp;
+  <a href="https://www.producthunt.com/posts/muse-pro"><img src="https://api.producthunt.com/widgets/embed-image/v1/top-post-badge.svg?post_id=442693&theme=dark&period=daily" alt="Product Hunt" height="50"/></a>
+</p>
 
 Own the composition and elevate your creativity. MusePro is the next generation of drawing tools - a professional-grade app for iOS and visionOS where your Apple Pencil strokes guide real-time AI image generation.
 
 <p align="center">
-  <img src="https://cdn.prod.website-files.com/65dcad0fb21096e8c41cfd96/65e8e60ac125c22fe4e4081e_meta-image.png" alt="MusePro - Realtime AI guided by your hand" width="800"/>
+  <video src="https://github.com/StyleOf/MusePro/raw/main/Media/hero.mp4" width="800" autoplay loop muted playsinline></video>
 </p>
+
+https://github.com/StyleOf/MusePro/raw/main/Media/hero.mp4
 
 ## See It In Action
 
 | Realtime Generation | Prompting & Vision | AI Control |
 |:---:|:---:|:---:|
-| [![Realtime](https://cdn.prod.website-files.com/65dcad0fb21096e8c41cfd96/65e88cdbbfef7fce0c5852d7_feature-realtime-poster-00001.jpg)](https://cdn.prod.website-files.com/65dcad0fb21096e8c41cfd96/65e88cdbbfef7fce0c5852d7_feature-realtime-transcode.mp4) | [![Prompting](https://cdn.prod.website-files.com/65dcad0fb21096e8c41cfd96/65e8954261afeaba94943dc8_feature-prompting-poster-00001.jpg)](https://cdn.prod.website-files.com/65dcad0fb21096e8c41cfd96/65e8954261afeaba94943dc8_feature-prompting-transcode.mp4) | [![AI Control](https://cdn.prod.website-files.com/65dcad0fb21096e8c41cfd96/65e7eae9df078ced9b4845c4_feature-aicontrol-poster-00001.jpg)](https://cdn.prod.website-files.com/65dcad0fb21096e8c41cfd96/65e7eae9df078ced9b4845c4_feature-aicontrol-transcode.mp4) |
+| [Watch Video](Media/feature-realtime.mp4) | [Watch Video](Media/feature-prompting.mp4) | [Watch Video](Media/feature-aicontrol.mp4) |
 
 | Enhance & Upscale | Assets & Shapes |
 |:---:|:---:|
-| [![Enhance](https://cdn.prod.website-files.com/65dcad0fb21096e8c41cfd96/65e7cf77761e4f0caff7393e_enhance-feature-poster-00001.jpg)](https://cdn.prod.website-files.com/65dcad0fb21096e8c41cfd96/65e7cf77761e4f0caff7393e_enhance-feature-transcode.mp4) | [![Shapes](https://cdn.prod.website-files.com/65dcad0fb21096e8c41cfd96/65e7da9285fd9143fbf4f2fc_feature-shapes-poster-00001.jpg)](https://cdn.prod.website-files.com/65dcad0fb21096e8c41cfd96/65e7da9285fd9143fbf4f2fc_feature-shapes-transcode.mp4) |
-
-*Click images to view demo videos*
+| [Watch Video](Media/feature-enhance.mp4) | [Watch Video](Media/feature-shapes.mp4) |
 
 ---
 
