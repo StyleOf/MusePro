@@ -18,6 +18,12 @@ Own the composition and elevate your creativity. MusePro is the next generation 
 
 <table>
 <tr>
+<td align="center" colspan="2"><b>App Overview</b></td>
+</tr>
+<tr>
+<td colspan="2" align="center"><video src="https://github.com/StyleOf/MusePro/raw/main/Media/hero.mp4" width="600" controls></video></td>
+</tr>
+<tr>
 <td align="center"><b>Realtime Generation</b></td>
 <td align="center"><b>Prompting & Vision</b></td>
 </tr>
