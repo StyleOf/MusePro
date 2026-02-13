@@ -10,25 +10,15 @@
 
 Own the composition and elevate your creativity. MusePro is the next generation of drawing tools - a professional-grade app for iOS and visionOS where your Apple Pencil strokes guide real-time AI image generation.
 
-<p align="center">
-  <a href="Media/hero.mp4">
-    <img src="Media/hero-poster.jpg" alt="MusePro Demo" width="800"/>
-  </a>
-</p>
-
-<p align="center"><i>Click to watch demo video</i></p>
+https://github.com/StyleOf/MusePro/raw/main/Media/demo.mp4
 
 ## See It In Action
 
-| Realtime Generation | Prompting & Vision | AI Control |
-|:---:|:---:|:---:|
-| [![Realtime](Media/feature-realtime-poster.jpg)](Media/feature-realtime.mp4) | [![Prompting](Media/feature-prompting-poster.jpg)](Media/feature-prompting.mp4) | [![AI Control](Media/feature-aicontrol-poster.jpg)](Media/feature-aicontrol.mp4) |
+https://github.com/StyleOf/MusePro/raw/main/Media/feature-realtime.mp4
 
-| Enhance & Upscale | Assets & Shapes |
-|:---:|:---:|
-| [![Enhance](Media/feature-enhance-poster.jpg)](Media/feature-enhance.mp4) | [![Shapes](Media/feature-shapes-poster.jpg)](Media/feature-shapes.mp4) |
+https://github.com/StyleOf/MusePro/raw/main/Media/feature-prompting.mp4
 
-<p align="center"><i>Click images to watch feature videos</i></p>
+https://github.com/StyleOf/MusePro/raw/main/Media/feature-aicontrol.mp4
 
 ---
 
