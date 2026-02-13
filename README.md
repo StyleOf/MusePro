@@ -16,34 +16,30 @@ Own the composition and elevate your creativity. MusePro is the next generation 
 
 ## See It In Action
 
-<p align="center" width="100%">
-  <video src="https://github.com/user-attachments/assets/87f4926c-22c4-4b52-95cc-42f633ede3ac" width="80%" controls></video>
-</p>
-
 <table>
 <tr>
+<td align="center"><b>App Overview</b></td>
 <td align="center"><b>Realtime Generation</b></td>
-<td align="center"><b>Prompting & Vision</b></td>
 </tr>
 <tr>
+<td><video src="https://github.com/user-attachments/assets/87f4926c-22c4-4b52-95cc-42f633ede3ac" width="400" controls></video></td>
 <td><video src="https://github.com/user-attachments/assets/c466a3dd-e2b8-40db-b860-6d81e64880b6" width="400" controls></video></td>
-<td><video src="https://github.com/user-attachments/assets/c76b0ef8-905f-407f-b60c-3c975e30b1de" width="400" controls></video></td>
 </tr>
 <tr>
+<td align="center"><b>Prompting & Vision</b></td>
 <td align="center"><b>AI Control</b></td>
-<td align="center"><b>Enhance & Upscale</b></td>
 </tr>
 <tr>
+<td><video src="https://github.com/user-attachments/assets/c76b0ef8-905f-407f-b60c-3c975e30b1de" width="400" controls></video></td>
 <td><video src="https://github.com/user-attachments/assets/2926d590-7524-44ac-861b-37c0b3e66109" width="400" controls></video></td>
-<td><video src="https://github.com/user-attachments/assets/b03e2818-85a1-4daf-a69c-9d7e086f41e6" width="400" controls></video></td>
 </tr>
 <tr>
+<td align="center"><b>Enhance & Upscale</b></td>
 <td align="center"><b>Assets & Shapes</b></td>
-<td></td>
 </tr>
 <tr>
+<td><video src="https://github.com/user-attachments/assets/b03e2818-85a1-4daf-a69c-9d7e086f41e6" width="400" controls></video></td>
 <td><video src="https://github.com/user-attachments/assets/e3e3d54b-0ea7-4c01-951f-60c3b517a3ac" width="400" controls></video></td>
-<td></td>
 </tr>
 </table>
 
